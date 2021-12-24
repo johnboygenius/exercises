@@ -1,8 +1,8 @@
 /**
- * @file exercise-9-1.cpp
+ * @file exercise-9-2.cpp
  * @author John Davis
- * @brief Solve via numerical integration the coulomb interaction for Carbon (sp2), revisiting
- * @date 2021-12-14
+ * @brief Numerical Monte Carlo integration of Carbon coulomb interaction energy (sp2, O(n) vs O(n^6))
+ * @date 2021-12-24
  */
 
 #include <cmath>
